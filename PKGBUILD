@@ -1,4 +1,4 @@
-# Maintainer: Cynthia Weyrauch <cynthetika@gmail.com>
+
 pkgname='plymouth-theme-jijicat'
 pkgver=1.0
 pkgrel=1
